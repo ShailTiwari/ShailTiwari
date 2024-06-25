@@ -57,23 +57,6 @@ I'm Shailendra Singh Tiwari, a passionate developer with a strong focus on Pytho
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShailTiwari&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
----
-
-### Latest YouTube videos
-<table>
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-<tr><td><a href="https://www.youtube.com/watch?v=SZIxomm06JU"><img width="140px" src="https://i.ytimg.com/vi/SZIxomm06JU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SZIxomm06JU">Deploying my new SaaS (with NextJS and Docker)</a> (Jun 24, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=mHn8KOzpPNY"><img width="140px" src="https://i.ytimg.com/vi/mHn8KOzpPNY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mHn8KOzpPNY">GitLab Duo AI: more than a pair programming partner</a> (Jun 19, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ytsL8_eW6YM"><img width="140px" src="https://i.ytimg.com/vi/ytsL8_eW6YM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ytsL8_eW6YM">Coding an app for Content Creators to get PAID!</a> (Jun 17, 2024)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=JGFQgsOt11w"><img width="140px" src="https://i.ytimg.com/vi/JGFQgsOt11w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JGFQgsOt11w">Host your own official MongoDB Database on Ubuntu with Civo</a> (Jun 12, 2024)<br/></td></tr>
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-</table>
-
----
 
 
 
